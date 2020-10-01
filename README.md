@@ -1,4 +1,4 @@
-# Desafio-Array-Semana-2
+# Desafio Array Semana 2
 
 Exercicio:
 Implementar uma Classe que se deverá manter um Array, por essa classe eu posso:
